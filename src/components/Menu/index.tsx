@@ -26,12 +26,12 @@ const Menu = (): JSX.Element => {
           </li> */}
           <li>
             <NavLink to="/services" className={styles.menu__link}>
-              mes services
+              services
             </NavLink>
           </li>
           <li>
             <NavLink to="/about" className={styles.menu__link}>
-              à propos
+              About
             </NavLink>
           </li>
           <li>

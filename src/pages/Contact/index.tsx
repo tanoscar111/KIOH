@@ -22,7 +22,7 @@ const Contact = (): JSX.Element => {
       <Header url="/contact" />
       <div className={styles.container}>
         <p className={`${styles.contact__link} ${styles.animation__background}`}>
-          contact (@) ethanpiboyeux.fr
+          contact (@) Thanh Tân
         </p>
       </div>
       <Footer allProjectsDisplay={false} />
