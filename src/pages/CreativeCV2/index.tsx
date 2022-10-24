@@ -14,8 +14,8 @@ const CreativeCV2 = (): JSX.Element => {
   // Fontion pour télécharger le fichier illustrator
   const downloadFile = () => {
     const link = document.createElement('a');
-    link.href = 'downloads/cv-creative.ai';
-    link.download = 'cv-creative-ethan-piboyeux.ai';
+    link.href = '';
+    link.download = '';
     link.click();
   };
 
@@ -31,7 +31,7 @@ const CreativeCV2 = (): JSX.Element => {
       <div className={styles.container}>
         <p className={styles.mention}>
           Code & Love -{' '}
-          <a href="https://www.samilafrance.com/" target="_blank">
+          <a href="" target="_blank">
             Sami Lafrance
           </a>
         </p>

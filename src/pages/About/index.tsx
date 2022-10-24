@@ -49,36 +49,22 @@ const About = (): JSX.Element => {
               <h4>2. Associations</h4>
               <ul>
                 <li>
-                  <a href="http://www.faismoisigne.org/" target="_blank">
-                    Fais-Moi Signe
-                  </a>{' '}
-                  - Communication, Graphisme
+                  <a target="_blank">Fais-Moi Signe</a> - Communication, Graphisme
                 </li>
                 <li>
-                  <a href="https://kleidi.org/" target="_blank">
-                    Kleidi
-                  </a>{' '}
-                  - Chef de projet
+                  <a target="_blank">Kleidi</a> - Chef de projet
                 </li>
                 <li>
-                  <a href="https://www.instagram.com/c.production_/" target="_blank">
-                    C-Production
-                  </a>{' '}
-                  - Graphiste & Vidéaste
+                  <a target="_blank">C-Production</a> - Graphiste & Vidéaste
                 </li>
                 <li>
-                  <a href="https://etapecoworking.fr/mediation-numerique" target="_blank">
-                    ETAPE Coworking
-                  </a>{' '}
-                  - Médiateur Numérique
+                  <a target="_blank">ETAPE Coworking</a> - Médiateur Numérique
                 </li>
               </ul>
             </div>
             <div className={`${styles.item} ${styles.animation__transform_top}`}>
               <h4>3. Presse</h4>
-              <a href="../pdf/article-courrier-gironde-ethan-piboyeux-08-01-21.pdf" target="_blank">
-                Courrier de Gironde 08.01.21
-              </a>
+              <a target="_blank">Courrier de Gironde 08.01.21</a>
             </div>
             <div className={`${styles.item} ${styles.animation__transform_top}`}>
               <h4>4. Réseaux</h4>
